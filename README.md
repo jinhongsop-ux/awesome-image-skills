@@ -64,6 +64,18 @@
 ## Memory Artefacts & Collectibles / 记忆载体与收藏品
 
 - [skill-make-photo-stamp-archive](https://github.com/Dlcccc71913/skill-make-photo-stamp-archive) — Pairs a faithful photo with a custom tactile stamp panel to make restrained archival compositions. / 将真实照片与定制的手压图章纸面并置，制作克制的档案式拼接作品。Creator / 署名：Dlcccc71913。`MIT`
+
+  **Visual demo / 视觉示例 — Public-domain source → Photo Stamp Archive output**
+
+  <table>
+    <tr><th>Before / 原图</th><th>After / Skill 生成结果</th></tr>
+    <tr>
+      <td><img src="assets/skill-make-photo-stamp-archive-demo/before-passenger-tram-rotterdam-preview.jpg" alt="A public-domain photograph of a passenger on a tram" width="480"></td>
+      <td><img src="assets/skill-make-photo-stamp-archive-demo/after-photo-stamp-tram-ride-preview.jpg" alt="An archival direct-splice photo and tactile stamp composition" width="480"></td>
+    </tr>
+  </table>
+
+  Source: [Passenger Tram Rotterdam by Prolete](https://commons.wikimedia.org/wiki/File:Passenger_Tram_Rotterdam.jpg), CC0 1.0. Output created with the `skill-make-photo-stamp-archive` workflow. / 原图：Prolete 的 CC0 1.0 作品；右图由 `skill-make-photo-stamp-archive` 工作流生成。See [attribution](assets/skill-make-photo-stamp-archive-demo/ATTRIBUTION.md).
 - [travel-memory-sticker-card](https://github.com/carolinaaafy/travel-memory-sticker-card) — Turns travel photos into collectible memory sticker cards. / 将旅行照片制作成可收藏的记忆贴纸卡。Creator / 署名：Carito。`License not declared`
 - [travel-memory-card-duo](https://github.com/carolinaaafy/travel-memory-card-duo) — Produces a 3:2 travel memory card plus a matching six-sticker PNG with a transparent background. / 输出一张 3:2 旅行记忆卡，以及同款六枚透明底贴纸 PNG。Creator / 署名：Carito。`License not declared`
 - [vinyl-image-generator](https://github.com/liigoQi/vinyl-image-generator) — Creates a cohesive fictional vinyl-release artifact: front and back sleeves plus two record labels in one product image. / 在一张产品图中生成统一的虚构黑胶唱片作品：正反封套与 A/B 面唱片标签。Creator / 署名：Yosemite。`MIT`
