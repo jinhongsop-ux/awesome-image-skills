@@ -85,6 +85,18 @@
 
   Source: [Someone walks up stairs into sunlight by Willi Nüchterlein](https://unsplash.com/photos/someone-walks-up-stairs-into-sunlight-e-2NTM8fDKs), under the [Unsplash License](https://unsplash.com/license). Output created with the `selective-ink-sketch` workflow. / 原图：Willi Nüchterlein 的 Unsplash 许可作品；右图由 `selective-ink-sketch` 工作流生成。See [attribution](assets/selective-ink-sketch-demo/ATTRIBUTION.md).
 - [flash4start_light](https://github.com/Buantum/flash4start_light) — Uses structural image analysis to guide tailored painterly SVG repaints and reproducible visual workflows. / 通过图像结构分析指导定制化的绘画式 SVG 重绘与可复现视觉工作流。Creator / 署名：LensWalker。`License not declared`
+
+  **Visual demo / 视觉示例 — Curated source → Painterly SVG output**
+
+  <table>
+    <tr><th>Before / 原图</th><th>After / Skill 生成结果</th></tr>
+    <tr>
+      <td><img src="assets/flash4start-light-demo/before-welsh-lighthouse-preview-v1.jpg" alt="A lighthouse at dusk overlooking the Welsh coast" width="480"></td>
+      <td><img src="assets/flash4start-light-demo/after-lighthouse-painterly-svg-preview-v1.jpg" alt="A structure-aware painterly SVG reinterpretation of a lighthouse at dusk" width="480"></td>
+    </tr>
+  </table>
+
+  Source: [a lighthouse on a hill overlooking the ocean by Tom Allport](https://unsplash.com/photos/a-lighthouse-on-a-hill-overlooking-the-ocean-0_gUGvfBbW4), under the [Unsplash License](https://unsplash.com/license). Output created with the `flash4start_light` workflow. / 原图：Tom Allport 的 Unsplash 许可作品；右图由 `flash4start_light` 工作流生成。See [attribution](assets/flash4start-light-demo/ATTRIBUTION.md).
 - [antibes-holiday](https://github.com/haorantang97/antibes-holiday) — Creates relaxed black-pen narrative illustrations using expressive marks, causal staging, and active blank space. / 以表现性笔触、叙事性场景与主动留白创作松弛的黑笔插画。Creator / 署名：Lab 305。`PolyForm Noncommercial 1.0.0`
 
 ## Posters, Print & Collage / 海报、印刷与拼贴
