@@ -59,6 +59,18 @@
 
   Source: [Sunset by the Palm-Lined Road by Pramod Tiwari](https://unsplash.com/pt-br/fotografias/um-carro-vermelho-dirigindo-pelo-deserto-ao-por-do-sol-av4RwWsXtSk), under the [Unsplash License](https://unsplash.com/license). Output created with the `scene-to-art-lab` workflow. / 原图：Pramod Tiwari 的 Unsplash 许可作品；右图由 `scene-to-art-lab` 工作流生成。See [attribution](assets/scene-to-art-lab-demo/ATTRIBUTION.md).
 - [sunwoven-reverie](https://github.com/wen3140/sunwoven-reverie) — Repaints people, pets, and scenes as modern flat illustrations with geometric color fields and a single bold graphic event. / 用几何色块、有限色盘与单一醒目图形事件重绘人物、宠物与风景。Creator / 署名：云间一纸书。`PolyForm Noncommercial 1.0.0`
+
+  **Visual demo / 视觉示例 — Curated source → Sunwoven Illustration output**
+
+  <table>
+    <tr><th>Before / 原图</th><th>After / Skill 生成结果</th></tr>
+    <tr>
+      <td><img src="assets/sunwoven-reverie-demo/before-coastal-road-preview-v1.jpg" alt="A sunlit coastal road and rugged cliffs" width="480"></td>
+      <td><img src="assets/sunwoven-reverie-demo/after-sunwoven-coastal-road-preview-v1.jpg" alt="A strong editorial gouache illustration of a coastal road" width="480"></td>
+    </tr>
+  </table>
+
+  Source: [Coastal Cliffside Drive by Peter Thomas](https://unsplash.com/photos/a-scenic-view-of-the-ocean-and-a-road-eypFi21fcXI), under the [Unsplash License](https://unsplash.com/license). Output created with the `sunwoven-reverie` workflow. / 原图：Peter Thomas 的 Unsplash 许可作品；右图由 `sunwoven-reverie` 工作流生成。See [attribution](assets/sunwoven-reverie-demo/ATTRIBUTION.md).
 - [selective-ink-sketch](https://github.com/joeyhu1108-maker/selective-ink-sketch) — Converts real photos into black-and-white pen sketches that privilege one detailed anchor and purposeful omission. / 将真实照片转为黑白钢笔速写，以一个精刻锚点和主动省略建立画面。Creator / 署名：卓一_Z.ONE。`License not declared`
 - [flash4start_light](https://github.com/Buantum/flash4start_light) — Uses structural image analysis to guide tailored painterly SVG repaints and reproducible visual workflows. / 通过图像结构分析指导定制化的绘画式 SVG 重绘与可复现视觉工作流。Creator / 署名：LensWalker。`License not declared`
 - [antibes-holiday](https://github.com/haorantang97/antibes-holiday) — Creates relaxed black-pen narrative illustrations using expressive marks, causal staging, and active blank space. / 以表现性笔触、叙事性场景与主动留白创作松弛的黑笔插画。Creator / 署名：Lab 305。`PolyForm Noncommercial 1.0.0`
