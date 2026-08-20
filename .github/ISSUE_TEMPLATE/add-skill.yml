@@ -27,7 +27,10 @@ body:
     attributes:
       label: Suggested category / 建议分类
       options:
-        - Editorial, Posters & Zines / 编辑、海报与纸刊
+        - Material Art & Illustration / 材料艺术与插画
+        - Posters, Print & Collage / 海报、印刷与拼贴
+        - Memory Artefacts & Collectibles / 记忆载体与收藏品
+        - Brand & Food Visuals / 品牌与食物视觉
         - New category needed / 建议新增分类
     validations:
       required: true
