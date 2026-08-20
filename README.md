@@ -33,6 +33,18 @@
 
   Source: [Hot-air balloon.JPG by Antonio Borrillo](https://commons.wikimedia.org/wiki/File:Hot-air_balloon.JPG), CC0 1.0. Output created with the `photo-to-minimal-illustration` workflow. / 原图：Antonio Borrillo 的 CC0 1.0 作品；右图由 `photo-to-minimal-illustration` 工作流生成。See [attribution](assets/photo-to-minimal-illustration-demo/ATTRIBUTION.md).
 - [photo-to-travel-sketch](https://github.com/liigoQi/photo-to-travel-sketch) — Turns travel photos into loose observational sketchbook drawings with wandering fineliner contours and dry-marker color. / 将旅行照片转为松弛的观察式速写本画面，使用游走针管线与干性马克笔色彩。Creator / 署名：小灯只工作不上班。`MIT`
+
+  **Visual demo / 视觉示例 — Public-domain source → Travel Sketch output**
+
+  <table>
+    <tr><th>Before / 原图</th><th>After / Skill 生成结果</th></tr>
+    <tr>
+      <td><img src="assets/photo-to-travel-sketch-demo/before-mediterranean-street-preview.jpg" alt="A public-domain photograph of a narrow Mediterranean urban street" width="480"></td>
+      <td><img src="assets/photo-to-travel-sketch-demo/after-travel-sketch-mediterranean-street-preview.jpg" alt="A loose travel-sketch illustration of a Mediterranean urban street" width="480"></td>
+    </tr>
+  </table>
+
+  Source: [Narrow Urban Street with Mediterranean Architecture by Ralawin60](https://commons.wikimedia.org/wiki/File:Narrow_Urban_Street_with_Mediterranean_Architecture.jpg), CC0 1.0. Output created with the `photo-to-travel-sketch` workflow. / 原图：Ralawin60 的 CC0 1.0 作品；右图由 `photo-to-travel-sketch` 工作流生成。See [attribution](assets/photo-to-travel-sketch-demo/ATTRIBUTION.md).
 - [scene-to-art-lab](https://github.com/N1kO724/scene-to-art-lab) — Builds art-directed posters from photographs, choosing media, composition, typography, and source-derived palettes. / 从照片出发选择媒介、构图、字排与源图色彩，生成艺术指导式海报。Creator / 署名：N1ko。`Personal Non-Commercial`
 - [sunwoven-reverie](https://github.com/wen3140/sunwoven-reverie) — Repaints people, pets, and scenes as modern flat illustrations with geometric color fields and a single bold graphic event. / 用几何色块、有限色盘与单一醒目图形事件重绘人物、宠物与风景。Creator / 署名：云间一纸书。`PolyForm Noncommercial 1.0.0`
 - [selective-ink-sketch](https://github.com/joeyhu1108-maker/selective-ink-sketch) — Converts real photos into black-and-white pen sketches that privilege one detailed anchor and purposeful omission. / 将真实照片转为黑白钢笔速写，以一个精刻锚点和主动省略建立画面。Creator / 署名：卓一_Z.ONE。`License not declared`
@@ -70,4 +82,3 @@ Have a useful image-creation skill or workflow? Please read [CONTRIBUTING.md](CO
 
 This list is released under [CC0-1.0](LICENSE). Individual projects retain their own licenses.  
 本目录以 [CC0-1.0](LICENSE) 发布；各收录项目仍适用其自身许可证。
-
