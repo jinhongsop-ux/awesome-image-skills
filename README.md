@@ -46,6 +46,18 @@
 
   Source: [Narrow Urban Street with Mediterranean Architecture by Ralawin60](https://commons.wikimedia.org/wiki/File:Narrow_Urban_Street_with_Mediterranean_Architecture.jpg), CC0 1.0. Output created with the `photo-to-travel-sketch` workflow. / 原图：Ralawin60 的 CC0 1.0 作品；右图由 `photo-to-travel-sketch` 工作流生成。See [attribution](assets/photo-to-travel-sketch-demo/ATTRIBUTION.md).
 - [scene-to-art-lab](https://github.com/N1kO724/scene-to-art-lab) — Builds art-directed posters from photographs, choosing media, composition, typography, and source-derived palettes. / 从照片出发选择媒介、构图、字排与源图色彩，生成艺术指导式海报。Creator / 署名：N1ko。`Personal Non-Commercial`
+
+  **Visual demo / 视觉示例 — Curated source → Art-directed Poster output**
+
+  <table>
+    <tr><th>Before / 原图</th><th>After / Skill 生成结果</th></tr>
+    <tr>
+      <td><img src="assets/scene-to-art-lab-demo/before-red-convertible-preview-v1.jpg" alt="A red vintage convertible beside palm trees at sunset" width="480"></td>
+      <td><img src="assets/scene-to-art-lab-demo/after-sunset-drive-screenprint-preview-v1.jpg" alt="A vertical screenprint poster of a red vintage convertible at sunset" width="480"></td>
+    </tr>
+  </table>
+
+  Source: [Sunset by the Palm-Lined Road by Pramod Tiwari](https://unsplash.com/pt-br/fotografias/um-carro-vermelho-dirigindo-pelo-deserto-ao-por-do-sol-av4RwWsXtSk), under the [Unsplash License](https://unsplash.com/license). Output created with the `scene-to-art-lab` workflow. / 原图：Pramod Tiwari 的 Unsplash 许可作品；右图由 `scene-to-art-lab` 工作流生成。See [attribution](assets/scene-to-art-lab-demo/ATTRIBUTION.md).
 - [sunwoven-reverie](https://github.com/wen3140/sunwoven-reverie) — Repaints people, pets, and scenes as modern flat illustrations with geometric color fields and a single bold graphic event. / 用几何色块、有限色盘与单一醒目图形事件重绘人物、宠物与风景。Creator / 署名：云间一纸书。`PolyForm Noncommercial 1.0.0`
 - [selective-ink-sketch](https://github.com/joeyhu1108-maker/selective-ink-sketch) — Converts real photos into black-and-white pen sketches that privilege one detailed anchor and purposeful omission. / 将真实照片转为黑白钢笔速写，以一个精刻锚点和主动省略建立画面。Creator / 署名：卓一_Z.ONE。`License not declared`
 - [flash4start_light](https://github.com/Buantum/flash4start_light) — Uses structural image analysis to guide tailored painterly SVG repaints and reproducible visual workflows. / 通过图像结构分析指导定制化的绘画式 SVG 重绘与可复现视觉工作流。Creator / 署名：LensWalker。`License not declared`
