@@ -59,6 +59,18 @@
 - [eastern-ink-photo-diptych](https://github.com/Hiseaa/eastern-ink-photo-diptych) — Makes a vertical editorial poster with faithful photography above and minimalist Eastern ink abstraction below. / 制作上半实景摄影、下半东方极简水墨的竖版画册海报。Creator / 署名：长曝研究院 × 柳生。`License not declared`
 - [surreal-pop-collage](https://github.com/2998980-hue/surreal-pop-collage) — Recasts a photo as a surreal pop collage with a monochrome reality anchor, flat color fields, and one impossible oversized element. / 以黑白现实锚点、平涂色块和唯一不可能巨物，将照片转为超现实波普拼贴。Creator / 署名：理想鲨鱼。`MIT`
 - [photo-riso-poster](https://github.com/luckdvr/photo-riso-poster) — Builds quiet 2–3 ink risograph archive posters from a photo or text theme through evidence-based abstraction. / 从照片或文字主题出发，以基于视觉证据的抽象生成安静的 2–3 色 Riso 档案海报。Creator / 署名：咕咕咕咕咕 / 嵩鼠。`MIT`
+
+  **Visual demo / 视觉示例 — Public-domain source → Riso Archive Poster output**
+
+  <table>
+    <tr><th>Before / 原图</th><th>After / Skill 生成结果</th></tr>
+    <tr>
+      <td><img src="assets/photo-riso-poster-demo/before-white-bicycle-preview-v1.jpg" alt="A public-domain photograph of a white bicycle against a blue wall" width="480"></td>
+      <td><img src="assets/photo-riso-poster-demo/after-riso-white-bicycle-preview-v1.jpg" alt="A sparse blue, red, and cream risograph archive poster of a white bicycle" width="480"></td>
+    </tr>
+  </table>
+
+  Source: [White bicycle by Fasalul Abid Shj](https://commons.wikimedia.org/wiki/File:White_bicycle.jpg), CC0 1.0. Output created with the `photo-riso-poster` workflow. / 原图：Fasalul Abid Shj 的 CC0 1.0 作品；右图由 `photo-riso-poster` 工作流生成。See [attribution](assets/photo-riso-poster-demo/ATTRIBUTION.md).
 - [create-pantone-photo-posters](https://github.com/laurent-7bk/Aigc-Skills/tree/main/create-pantone-photo-posters) — Designs framed editorial photo posters with restrained out-of-frame subjects and visually approximate Pantone-style color labels. / 以克制的穿框主体与视觉近似的潘通式色号标签，制作相框摄影编辑海报。Creator / 署名：Laurent。`License not declared; personal non-commercial notice`
 
 ## Memory Artefacts & Collectibles / 记忆载体与收藏品
