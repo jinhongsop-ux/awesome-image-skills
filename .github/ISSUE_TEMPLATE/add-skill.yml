@@ -1,8 +1,6 @@
 name: Suggest an image skill
 description: Recommend a skill, workflow, or related open resource for this directory.
 title: "[Skill]: "
-labels:
-  - suggestion
 body:
   - type: markdown
     attributes:
