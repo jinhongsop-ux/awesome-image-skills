@@ -99,6 +99,18 @@
   Source: [a lighthouse on a hill overlooking the ocean by Tom Allport](https://unsplash.com/photos/a-lighthouse-on-a-hill-overlooking-the-ocean-0_gUGvfBbW4), under the [Unsplash License](https://unsplash.com/license). Output created with the `flash4start_light` workflow. / 原图：Tom Allport 的 Unsplash 许可作品；右图由 `flash4start_light` 工作流生成。See [attribution](assets/flash4start-light-demo/ATTRIBUTION.md).
 - [antibes-holiday](https://github.com/haorantang97/antibes-holiday) — Creates relaxed black-pen narrative illustrations using expressive marks, causal staging, and active blank space. / 以表现性笔触、叙事性场景与主动留白创作松弛的黑笔插画。Creator / 署名：Lab 305。`PolyForm Noncommercial 1.0.0`
 
+  **Visual demo / 视觉示例 — Curated source → Relaxed Black-Pen output**
+
+  <table>
+    <tr><th>Before / 原图</th><th>After / Skill 生成结果</th></tr>
+    <tr>
+      <td><img src="assets/antibes-holiday-demo/before-toulon-sailboat-preview-v1.jpg" alt="A sailboat docked at sunset in Toulon harbor" width="480"></td>
+      <td><img src="assets/antibes-holiday-demo/after-toulon-sailboat-pen-preview-v1.jpg" alt="A relaxed black-pen drawing of a sunset sailboat" width="480"></td>
+    </tr>
+  </table>
+
+  Source: [Sailboat docked in harbor at sunset by Philippe BONTEMPS](https://unsplash.com/photos/sailboat-docked-in-harbor-at-sunset-oOkaTgp0OZc), under the [Unsplash License](https://unsplash.com/license). Output created with the `antibes-holiday` workflow. / 原图：Philippe BONTEMPS 的 Unsplash 许可作品；右图由 `antibes-holiday` 工作流生成。See [attribution](assets/antibes-holiday-demo/ATTRIBUTION.md).
+
 ## Posters, Print & Collage / 海报、印刷与拼贴
 
 - [Gathered Scenes Zine](https://github.com/Zeejay0/gathered-scenes-zine-skill) — Two Codex image-creation skills that transform an ordinary photo into either a tactile photo-collage zine page or a newly distilled editorial illustration. / 两个 Codex 图像创作 Skill：将日常照片转化为带纸张质感的实景拼贴纸刊，或重新蒸馏为独立的编辑插画。`Personal Non-Commercial`
