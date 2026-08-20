@@ -1,0 +1,52 @@
+name: Suggest an image skill
+description: Recommend a skill, workflow, or related open resource for this directory.
+title: "[Skill]: "
+labels:
+  - suggestion
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for helping grow Awesome Image Skills.
+        感谢你帮助完善 Awesome Image Skills。
+  - type: input
+    id: repository
+    attributes:
+      label: Repository URL / 仓库链接
+      placeholder: https://github.com/owner/repository
+    validations:
+      required: true
+  - type: input
+    id: license
+    attributes:
+      label: License / 许可证
+      description: State the exact license shown by the source project. / 请填写源项目标明的准确许可证。
+      placeholder: MIT, Apache-2.0, Personal Non-Commercial, etc.
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Suggested category / 建议分类
+      options:
+        - Editorial, Posters & Zines / 编辑、海报与纸刊
+        - New category needed / 建议新增分类
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Why it belongs here / 推荐理由
+      description: Describe the practical creative outcome, ideally in English and Chinese. / 说明它能带来的实际创作结果，推荐中英双语。
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checklist / 检查项
+      options:
+        - label: The repository is publicly accessible. / 仓库可公开访问。
+          required: true
+        - label: I checked that its license is visible and accurately stated above. / 我已确认许可证可见且以上标注准确。
+          required: true
+
