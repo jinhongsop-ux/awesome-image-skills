@@ -58,6 +58,18 @@
 - [silhouette-group-collage](https://github.com/liuzihe849-png/silhouette-group-collage) — Turns group photos into handmade-paper diptychs with complementary silhouette masks while preserving the original people and scene pixels. / 将群像照片制作成正负形互补的手工纸双联画，并保留原图人物和场景像素。Creator / 署名：理智画。`MIT`
 - [eastern-ink-photo-diptych](https://github.com/Hiseaa/eastern-ink-photo-diptych) — Makes a vertical editorial poster with faithful photography above and minimalist Eastern ink abstraction below. / 制作上半实景摄影、下半东方极简水墨的竖版画册海报。Creator / 署名：长曝研究院 × 柳生。`License not declared`
 - [surreal-pop-collage](https://github.com/2998980-hue/surreal-pop-collage) — Recasts a photo as a surreal pop collage with a monochrome reality anchor, flat color fields, and one impossible oversized element. / 以黑白现实锚点、平涂色块和唯一不可能巨物，将照片转为超现实波普拼贴。Creator / 署名：理想鲨鱼。`MIT`
+
+  **Visual demo / 视觉示例 — Curated source → Surreal Pop Collage output**
+
+  <table>
+    <tr><th>Before / 原图</th><th>After / Skill 生成结果</th></tr>
+    <tr>
+      <td><img src="assets/surreal-pop-collage-demo/before-golden-concrete-architecture-preview-v1.jpg" alt="A brutalist concrete building photographed at sunset" width="480"></td>
+      <td><img src="assets/surreal-pop-collage-demo/after-floating-balcony-collage-preview-v1.jpg" alt="A surreal pop collage of a brutalist building with a floating concrete balcony" width="480"></td>
+    </tr>
+  </table>
+
+  Source: [Golden Sunset on Concrete Architecture by David Kristianto](https://unsplash.com/photos/le-coucher-du-soleil-projette-une-lumiere-doree-sur-un-batiment-_JbYKSye9OU), under the [Unsplash License](https://unsplash.com/license). Output created with the `surreal-pop-collage` workflow. / 原图：David Kristianto 的 Unsplash 许可作品；右图由 `surreal-pop-collage` 工作流生成。See [attribution](assets/surreal-pop-collage-demo/ATTRIBUTION.md).
 - [photo-riso-poster](https://github.com/luckdvr/photo-riso-poster) — Builds quiet 2–3 ink risograph archive posters from a photo or text theme through evidence-based abstraction. / 从照片或文字主题出发，以基于视觉证据的抽象生成安静的 2–3 色 Riso 档案海报。Creator / 署名：咕咕咕咕咕 / 嵩鼠。`MIT`
 
   **Visual demo / 视觉示例 — Public-domain source → Riso Archive Poster output**
