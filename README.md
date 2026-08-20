@@ -72,6 +72,18 @@
 
   Source: [Coastal Cliffside Drive by Peter Thomas](https://unsplash.com/photos/a-scenic-view-of-the-ocean-and-a-road-eypFi21fcXI), under the [Unsplash License](https://unsplash.com/license). Output created with the `sunwoven-reverie` workflow. / 原图：Peter Thomas 的 Unsplash 许可作品；右图由 `sunwoven-reverie` 工作流生成。See [attribution](assets/sunwoven-reverie-demo/ATTRIBUTION.md).
 - [selective-ink-sketch](https://github.com/joeyhu1108-maker/selective-ink-sketch) — Converts real photos into black-and-white pen sketches that privilege one detailed anchor and purposeful omission. / 将真实照片转为黑白钢笔速写，以一个精刻锚点和主动省略建立画面。Creator / 署名：卓一_Z.ONE。`License not declared`
+
+  **Visual demo / 视觉示例 — Curated source → Selective Ink Sketch output**
+
+  <table>
+    <tr><th>Before / 原图</th><th>After / Skill 生成结果</th></tr>
+    <tr>
+      <td><img src="assets/selective-ink-sketch-demo/before-berlin-stairwell-preview-v1.jpg" alt="A tiled Berlin underpass stairwell with a person ascending" width="480"></td>
+      <td><img src="assets/selective-ink-sketch-demo/after-berlin-stairwell-ink-preview-v1.jpg" alt="A selective black ink sketch of a tiled stairwell" width="480"></td>
+    </tr>
+  </table>
+
+  Source: [Someone walks up stairs into sunlight by Willi Nüchterlein](https://unsplash.com/photos/someone-walks-up-stairs-into-sunlight-e-2NTM8fDKs), under the [Unsplash License](https://unsplash.com/license). Output created with the `selective-ink-sketch` workflow. / 原图：Willi Nüchterlein 的 Unsplash 许可作品；右图由 `selective-ink-sketch` 工作流生成。See [attribution](assets/selective-ink-sketch-demo/ATTRIBUTION.md).
 - [flash4start_light](https://github.com/Buantum/flash4start_light) — Uses structural image analysis to guide tailored painterly SVG repaints and reproducible visual workflows. / 通过图像结构分析指导定制化的绘画式 SVG 重绘与可复现视觉工作流。Creator / 署名：LensWalker。`License not declared`
 - [antibes-holiday](https://github.com/haorantang97/antibes-holiday) — Creates relaxed black-pen narrative illustrations using expressive marks, causal staging, and active blank space. / 以表现性笔触、叙事性场景与主动留白创作松弛的黑笔插画。Creator / 署名：Lab 305。`PolyForm Noncommercial 1.0.0`
 
