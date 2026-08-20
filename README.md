@@ -39,8 +39,8 @@
   <table>
     <tr><th>Before / 原图</th><th>After / Skill 生成结果</th></tr>
     <tr>
-      <td><img src="assets/photo-to-travel-sketch-demo/before-mediterranean-street-preview-v2.jpg" alt="A public-domain photograph of a narrow Mediterranean urban street" width="480"></td>
-      <td><img src="assets/photo-to-travel-sketch-demo/after-travel-sketch-mediterranean-street-preview-v2.jpg" alt="A loose travel-sketch illustration of a Mediterranean urban street" width="480"></td>
+      <td><img src="assets/photo-to-travel-sketch-demo/before-mediterranean-street-preview-hd.jpg" alt="A public-domain photograph of a narrow Mediterranean urban street" width="480"></td>
+      <td><img src="assets/photo-to-travel-sketch-demo/after-travel-sketch-mediterranean-street-preview-hd.jpg" alt="A loose travel-sketch illustration of a Mediterranean urban street" width="480"></td>
     </tr>
   </table>
 
@@ -70,8 +70,8 @@
   <table>
     <tr><th>Before / 原图</th><th>After / Skill 生成结果</th></tr>
     <tr>
-      <td><img src="assets/skill-make-photo-stamp-archive-demo/before-passenger-tram-rotterdam-preview-v2.jpg" alt="A public-domain photograph of a passenger on a tram" width="480"></td>
-      <td><img src="assets/skill-make-photo-stamp-archive-demo/after-photo-stamp-tram-ride-preview-v2.jpg" alt="An archival direct-splice photo and tactile stamp composition" width="480"></td>
+      <td><img src="assets/skill-make-photo-stamp-archive-demo/before-passenger-tram-rotterdam-preview-hd.jpg" alt="A public-domain photograph of a passenger on a tram" width="480"></td>
+      <td><img src="assets/skill-make-photo-stamp-archive-demo/after-photo-stamp-tram-ride-preview-hd.jpg" alt="An archival direct-splice photo and tactile stamp composition" width="480"></td>
     </tr>
   </table>
 
